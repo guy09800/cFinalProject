@@ -1,0 +1,16 @@
+﻿  main.c
+  pline.c
+C:\Users\idanl\source\repos\hospital system\hospital system\pline.c(30,31): warning C4013: 'calloc' undefined; assuming extern returning int
+C:\Users\idanl\source\repos\hospital system\hospital system\pline.c(30,57): warning C4312: 'type cast': conversion from 'int' to 'pInLine *' of greater size
+C:\Users\idanl\source\repos\hospital system\hospital system\pline.c(76,3): warning C4013: 'free' undefined; assuming extern returning int
+  pstack.c
+C:\Users\idanl\source\repos\hospital system\hospital system\pstack.c(19,3): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\idanl\source\repos\hospital system\hospital system\pstack.c(30,37): warning C4013: 'calloc' undefined; assuming extern returning int
+C:\Users\idanl\source\repos\hospital system\hospital system\pstack.c(30,66): warning C4312: 'type cast': conversion from 'int' to 'Visit_node *' of greater size
+C:\Users\idanl\source\repos\hospital system\hospital system\pstack.c(47,2): warning C4133: 'return': incompatible types - from 'Visit *' to 'Visit_node *'
+  ptree.c
+C:\Users\idanl\source\repos\hospital system\hospital system\ptree.c(30,21): warning C4013: 'calloc' undefined; assuming extern returning int
+C:\Users\idanl\source\repos\hospital system\hospital system\ptree.c(30,11): warning C4047: 'initializing': 'pInTree *' differs in levels of indirection from 'int'
+C:\Users\idanl\source\repos\hospital system\hospital system\ptree.c(41,2): warning C4013: 'free' undefined; assuming extern returning int
+  Generating Code...
+  hospital system.vcxproj -> C:\Users\idanl\source\repos\hospital system\x64\Debug\hospital system.exe

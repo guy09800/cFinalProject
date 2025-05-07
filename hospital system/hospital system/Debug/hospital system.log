@@ -1,0 +1,23 @@
+﻿  dlist.c
+  filesFunctions.c
+  main.c
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\filesFunctions.c(69,56): warning C4013: 'addAllergies' undefined; assuming extern returning int
+  pline.c
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\filesFunctions.c(109,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\filesFunctions.c(209,30): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[18]'
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\filesFunctions.c(209,30): warning C4024: 'find': different types for formal and actual parameter 2
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(261,72): warning C4047: 'function': 'char' differs in levels of indirection from 'char *'
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(261,72): warning C4024: 'addAllergies': different types for formal and actual parameter 2
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(309,10): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[10]'
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(309,10): warning C4024: 'enterID': different types for formal and actual parameter 1
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(310,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[10]'
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(310,36): warning C4024: 'find': different types for formal and actual parameter 2
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(376,2): warning C4550: expression evaluates to a function which is missing an argument list
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(461,70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\main.c(462,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  pstack.c
+  ptree.c
+  structPrintFunctions.c
+C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\hospital system\structPrintFunctions.c(24,2): warning C4013: 'printVisitsStack' undefined; assuming extern returning int
+  Generating Code...
+  hospital system.vcxproj -> C:\Users\sahar\OneDrive\Desktop\לימודים\שנה א\C\מטלות מתקדמות\hospital system\hospital system\hospital system\Debug\hospital system.exe
